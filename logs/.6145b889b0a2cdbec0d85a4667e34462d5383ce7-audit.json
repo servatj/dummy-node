@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/servatj/dummy-node/logs/.6145b889b0a2cdbec0d85a4667e34462d5383ce7-audit.json",
+    "files": [
+        {
+            "date": 1610380810993,
+            "name": "/home/servatj/dummy-node/logs/application-error-2021-01-11.log",
+            "hash": "4f0671b8f3f2d63cc06d1a5c400c1897"
+        }
+    ]
+}

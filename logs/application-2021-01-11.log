@@ -1,3 +1,21 @@
 {"message":"The server started","level":"info"}
 2021-01-11 16:16:04 info: The server started 
 2021-01-11 16:22:06 info: The server started 
+2021-01-11 17:00:04 info: The server is runing at port:7000 
+2021-01-11 17:00:10 info: The server is runing at port:7000 
+2021-01-11 17:00:12 info: The server is runing at port:7000 
+2021-01-11 17:00:17 info: The server is runing at port:7000 
+2021-01-11 17:20:38 info: The server is runing at port:7000 
+2021-01-11 17:25:30 info: The server is runing at port:7000 
+2021-01-11 17:25:57 info: The server is runing at port:7000 
+2021-01-11 17:26:48 info: The server is runing at port:7000 
+2021-01-11 17:26:50 info: The server is runing at port:7000 
+2021-01-11 17:27:03 info: The server is runing at port:7000 
+2021-01-11 17:27:06 info: The server is runing at port:7000 
+2021-01-11 17:27:13 error: error root endpoinr port is not defined 
+2021-01-11 17:27:19 error: error root endpoinr port is not defined 
+2021-01-11 17:28:28 info: The server is runing at port:7000 
+2021-01-11 17:29:01 info: The server is runing at port:7000 
+2021-01-11 17:29:07 error: error root endpoint db error 
+2021-01-11 17:29:10 error: error root endpoint db error 
+2021-01-11 17:29:37 info: The server is runing at port:7000 
